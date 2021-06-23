@@ -1,4 +1,4 @@
-# 로컬 머신 쥬피터 랩 환경 설정
+# 로컬 머신에서 세이지 메이커 이용 
 - 아래 설치는 이 링크를 참조했습니다. 원문을 보시면서 하는 것을 권장 합니다. [Setting up Amazon SageMaker Environment On Your Local Machine](https://towardsdatascience.com/setting-up-amazon-sagemaker-environment-on-your-local-machine-7329e0178adc) 
 
 
