@@ -26,6 +26,11 @@
     
 - AWS 패키지 설치
     - `pip install boto3 awscli sagemaker`
+    
+    
+- AWS Cli 세팅
+    - 여기 참조해서 AWS의 Session을 연결할 인증 정보를 세팅하세요. 
+        - [Configuring the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
 
 
 - 쥬피터 설치 및 커널 생성
@@ -56,7 +61,7 @@ python -m ipykernel install --user --name sagemaker`
     
     
 - 2.1.local_train.ipynb
-    - 로컬에서 훈련 잡 실행
+    - 로컬에서 훈련 잡 및 세이지 메이커 호스트 모드에서 훈련 잡 실행
     
 - 2.2.no_sagemaker_session_.local_train.ipynb
     - 세이지 메이커 세션 없이 훈련 잡 실행
